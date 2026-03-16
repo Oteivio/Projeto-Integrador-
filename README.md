@@ -1,40 +1,115 @@
-# Projeto-Integrador
-Grupo 51
-Integrantes: 
-Islan Vichtor
-Sérgio
-Guilherme Bitencourt
-Rafel
-Julianne
-Otávio Oliveira
-Daniela
-Rafael
+# Projeto Integrador — Grupo 51
 
-# Definição da base de dados -
- A base de dados escolhida para o projeto foi a de Vendas Globais da BMW
- Link: https://www.kaggle.com/datasets/dmahajanbe23/bmw-global-automotive-sales -
- Descreveremos como o preço do combustível altera o preço do produto
- e como qual a sua margem de lucro baseada no seu preço de fabricação.
- 
-# Planejamento do Projeto -
-Cronograma e Tarefas necessárias para a conclusão do projeto
-Semana 1 GITHUB - Otávio e Daniela.
-Semana 1 BANCO DE DADOS - Otávio e Júnior. 
-Semana 1 ANÁLISE PREDITIVA - Guilherme e Islan.
-Semana 1 ANÁLISE DESCRITIVA - Rafael e Sérgio.
-Semana 1 ANÁLISE PRESCRITIVA - Julianne e Rafael. 
-Semana 1 STREAMLIT - Otávio, Guilherme e Islan.
+## Integrantes
 
-Objetivo da análise
-Impacto do preço do combustível na formação do preço do produto e na margem de lucro
+* Islan Vichtor
+* Sérgio
+* Guilherme Bitencourt
+* Rafael
+* Julianne
+* Otávio Oliveira
+* Daniela
 
-Nossa análise
+---
 
-# Ideia ínicial para o dashboard -
-foi decidido que a apârencia do dashboard para a análise do tema que seria a de um grafico principal mostrando as vendas dos carros como principal fator
-e logo abaixo seria um pesquisador com filtros para mostrar a diferença dos preços com base nos filtros que for adicionado.
+# Definição da Base de Dados
 
- 
+A base de dados escolhida para o projeto foi **Vendas Globais da BMW**.
 
+📊 Dataset:
+https://www.kaggle.com/datasets/dmahajanbe23/bmw-global-automotive-sales
 
+Esta base contém informações relacionadas às vendas globais da BMW e será utilizada para realizar análises de dados dentro do projeto.
 
+---
+
+# Objetivo da Análise
+
+O objetivo deste projeto é analisar:
+
+**O impacto do preço do combustível na formação do preço do produto e na margem de lucro.**
+
+A proposta é entender como a variação do preço do combustível pode influenciar:
+
+* O custo de transporte e produção
+* O preço final dos produtos
+* A margem de lucro obtida
+
+---
+
+# Planejamento do Projeto
+
+## Cronograma e Tarefas
+
+### Semana 1
+
+**GitHub**
+Responsáveis: Otávio e Daniela
+
+**Banco de Dados**
+Responsáveis: Otávio e Júnior
+
+**Análise Preditiva**
+Responsáveis: Guilherme e Islan
+
+**Análise Descritiva**
+Responsáveis: Rafael e Sérgio
+
+**Análise Prescritiva**
+Responsáveis: Julianne e Rafael
+
+**Dashboard com Streamlit**
+Responsáveis: Otávio, Guilherme e Islan
+
+---
+
+# Nossa Análise
+
+O projeto utilizará técnicas de análise de dados para compreender a relação entre:
+
+* Variações no preço do combustível
+* Impacto nas vendas
+* Formação de preço
+* Margem de lucro
+
+Serão utilizadas análises **descritivas, preditivas e prescritivas** para explorar os dados e gerar insights relevantes.
+
+---
+
+# Ideia Inicial para o Dashboard
+
+A ideia inicial para o dashboard é criar uma interface simples e intuitiva utilizando **Streamlit**.
+
+### Estrutura do Dashboard
+
+📈 **Gráfico principal**
+
+* Exibirá as **vendas de carros**, sendo o principal indicador visual do dashboard.
+
+🔎 **Sistema de filtros**
+
+* Localizado abaixo do gráfico principal
+* Permitirá pesquisar e filtrar dados como:
+
+  * Modelo do carro
+  * Região
+  * Ano
+  * Faixa de preço
+
+Esses filtros permitirão visualizar **como diferentes fatores influenciam os preços e as vendas**.
+
+---
+
+# Tecnologias Utilizadas
+
+* Python
+* Pandas
+* Streamlit
+* GitHub
+* Kaggle Dataset
+
+---
+
+# Status do Projeto
+
+🚧 Projeto em desenvolvimento.
