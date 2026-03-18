@@ -39,9 +39,7 @@ A proposta é entender como a variação do preço do combustível pode influenc
 
 # Planejamento do Projeto
 
-## Cronograma e Tarefas
-
-### Semana 1
+## Tarefas e responsáveis
 
 **GitHub**
 Responsáveis: Otávio e Daniela
@@ -60,6 +58,71 @@ Responsáveis: Julianne e Rafael
 
 **Dashboard com Streamlit**
 Responsáveis: Otávio, Guilherme e Islan
+
+# 📅 Cronograma do Projeto (8 Semanas)
+
+## 🔹 Semana 1 — Planejamento
+
+- Definição do tema e objetivos  
+- Escolha da base de dados  
+- Organização inicial do projeto  
+
+---
+
+## 🔹 Semana 2 — Exploração dos Dados
+
+- Análise inicial do dataset  
+- Compreensão das variáveis  
+- Identificação de possíveis problemas  
+
+---
+
+## 🔹 Semana 3 — Preparação dos Dados
+
+- Tratamento e organização dos dados  
+- Ajustes necessários para análise  
+
+---
+
+## 🔹 Semana 4 — Análise Descritiva
+
+- Análise geral dos dados  
+- Identificação de padrões e comportamentos  
+
+---
+
+## 🔹 Semana 5 — Análise Preditiva
+
+- Aplicação de modelo preditivo  
+- Observação de tendências  
+
+---
+
+## 🔹 Semana 6 — Análise Prescritiva
+
+- Interpretação dos resultados  
+- Geração de insights  
+
+---
+
+## 🔹 Semana 7 — Desenvolvimento do Dashboard
+
+- Construção do dashboard  
+- Organização das visualizações  
+
+---
+
+## 🔹 Semana 8 — Finalização
+
+- Revisão geral  
+- Documentação  
+- Preparação da apresentação  
+
+---
+
+## 📌 Observação
+
+As atividades foram distribuídas ao longo das semanas para garantir a evolução contínua do projeto, contando com a participação de todos os integrantes em cada etapa.
 
 ---
 
