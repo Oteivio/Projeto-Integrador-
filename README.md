@@ -2,13 +2,14 @@
 
 ## Integrantes
 
-* Islan Vichtor
-* Sérgio
-* Guilherme Bitencourt
-* Rafael
-* Julianne
-* Otávio Oliveira
-* Daniela
+* Daniela Tiemi Sato  
+* Guilherme Bitencourt Guerra  
+* Islan Vichtor Bomfim da Silva  
+* Julianne Silva da Costa Venancio  
+* Marcelo Paulino de Souza  
+* Otavio Oliveira Silva  
+* Rafael Lamerci Carvalho  
+* Sérgio Alves da Motta Junior   
 
 ---
 
@@ -45,7 +46,7 @@ A proposta é entender como a variação do preço do combustível pode influenc
 Responsáveis: Otávio e Daniela
 
 **Banco de Dados**
-Responsáveis: Otávio e Júnior
+Responsáveis: Otávio e Marcelo
 
 **Análise Preditiva**
 Responsáveis: Guilherme e Islan
